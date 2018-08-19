@@ -16,7 +16,7 @@ description: "This is a minimal example of using the bookdown package to write a
 
 ## Politics
 
-* **An Introduction to Political Philosophy** by Jonathan Wolff
+* **An Introduction to Political Philosophy** by Jonathan Wolff (IPP)
 * **Veto Players: How Political Institutions Work** by George Tsebelis
 * **Unifying Political Methodology: The Likelihood Theory of Statistical Inference** by Gary King
 * **World Politics: Interests, Interactions, Institutions (Third Edition)** by by Jeffry A. Frieden, David A. Lake
@@ -24,7 +24,7 @@ description: "This is a minimal example of using the bookdown package to write a
 
 ## Economics
 
-* **Economics Facts and Fallacies** by Thomas Sowell
+* **Economics Facts and Fallacies** by Thomas Sowell (EFF)
 * **Why Nations Fail: The Origins of Power, Prosperity, and Poverty** by Daron Acemoglu, James A. Robinson
 * **Microeconomics and Behavior** by Robert H. Frank
 * **Microeconomics** by Jeffrey M. Perloff
