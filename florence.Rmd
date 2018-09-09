@@ -1,0 +1,31 @@
+---
+title: "florence"
+author: "Michael DeWitt"
+date: "9/8/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(igraph)
+library(qss)
+data("florentine")
+```
+
+```{r}
+florentine_g <- florentine %>% 
+  filter(FAMILY != "PUCCI") %>% 
+  select(-PUCCI) %>% 
+  select(-FAMILY) %>% 
+  as.matrix()
+row.names(florentine_g) <- florentine[-12,1] %>% as.vector()
+florentine_g <- graph.adjacency(florentine_g, mode = "undirected", diag = FALSE)
+
+plot(florentine_g, vertex.size = betweenness(florentine_g))
+plot(florentine_g, vertex.size = closeness(florentine_g)*100)
+closeness(florentine_g)
+degree(florentine_g)
+betweenness(florentine_g)
+```
+
