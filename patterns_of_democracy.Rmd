@@ -1,0 +1,32 @@
+# Patterns of Democracy {patterns}
+
+## Executive Summary
+
+## Introduction
+The purpose of _Patterns of Democracy_ is to explore the different instantiations of democracy in 36 different states.
+
+## Forms of Democracy Westminster vs Consensus Models
+
+### Features of the Westminster Style of Government
+
+Concentration of executive power in one-party and bare-majority cabinates
+
+Cabinet dominance
+
+Two party Systems
+
+Majoritarian and dissproportionate representation
+
+Interest Group Pluralism
+
+Unitary and Centralised Government
+
+Concentration of legislative power in a unicamerak legislature
+
+Constitutional flexibility
+
+absense of judicial review
+
+A central bank controlled by the executive
+
+## Calculating Number of Political Parties
