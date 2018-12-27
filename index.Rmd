@@ -24,12 +24,10 @@ description: "This is a minimal example of using the bookdown package to write a
 
 ## Economics
 
-* **Economics Facts and Fallacies** by Thomas Sowell (EFF)
 * **Why Nations Fail: The Origins of Power, Prosperity, and Poverty** by Daron Acemoglu, James A. Robinson
 * **Microeconomics and Behavior** by Robert H. Frank
 * **Microeconomics** by Jeffrey M. Perloff
 * **Basic Economics** by Thomas Sowell
-* **Applied Economics: Thinking Beyond Stage One** Thomas Sowell
 * **Applied Econometrics with R** by Christian Kleiber, Achim Zeileis
 * **Debt** by David Graeber
 * **Capital in the Twenty-First Century** by Thomas Piketty
